@@ -39,7 +39,8 @@
   
   -Display and verify the final register and memory values.
 # OUTPUT:
-   C:\Users\Nimisha\Pictures\Screenshots\MICROPROCESSOR OP.png
+  <img width="992" height="466" alt="MICROPROCESSOR OP" src="https://github.com/user-attachments/assets/d059b581-bfe8-460c-86ca-e82f2c9881d9" />
+
 # RESULT:
    The 8-bit microprocessor was successfully designed and simulated using Verilog HDL. The processor correctly executed LOAD, ADD, and STORE instructions.
 For the given test case:
