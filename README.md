@@ -2,11 +2,10 @@
 # OBJECTIVE:
   To design and implement a simple 8-bit microprocessor using Verilog HDL and verify its functionality through simulation in ModelSim.
 # FEATURES:
-  1.8-bit data processing.
-
-  2.Four general-purpose registers (R0–R3).
-  3.8-bit Program Counter (PC).
-  4.Instruction and data memory.
+ 1.8-bit data processing
+ 2.Four general-purpose registers (R0–R3).
+ 3.8-bit Program Counter (PC).
+ 4.Instruction and data memory.
   5.Supports arithmetic and logical operations.
   6.Supports LOAD and STORE operations.
   7.Supports MOV, JMP, NOP and HALT instructions.
